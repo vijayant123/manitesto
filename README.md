@@ -12,4 +12,4 @@ each test has a detailed page showing progress, comments and other details along
 
 other topics to develop on were:
 
-![alt tag](https://github.com/vijayant123/manitesto/topics.jpg)
+![alt tag](https://github.com/vijayant123/manitesto/blob/master/topics.jpg)
